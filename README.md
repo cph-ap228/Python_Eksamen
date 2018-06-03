@@ -13,4 +13,7 @@ https://www.youtube.com/watch?v=19-LOqdI61k
 
 https://plot.ly/python/reference/#choropleth
 
+Folium & Choropleth documentation 
+http://python-visualization.github.io/folium/docs-v0.5.0/modules.html
+
 
